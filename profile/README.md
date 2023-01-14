@@ -1,12 +1,18 @@
-## Hi there 👋
+<h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
 
-<!--
 
-**Here are some ideas to get you started:**
+## What is Ember Host?
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We are a up-and-coming hosting company that aims to provide you the absolute best possible experience with hosting: the lowest prices, enterprise hardware, necessary functions, and knowledgable support. Ryzen CPUs, DDR4 ECC RAM, NvME SSDs, DDoS Protection - you name it, we'll have it.
+
+
+## Quickstart:
+
+- Learn more about Ember Host [here](https://ember.host)!
+- Want to check us out or contact us? Join our discord below!
+
+<h2 align="center"> <a href="https://discord.gg/68s9zKtSFb" align = "center">
+          <img alt="Ember Host Discord" src="https://discord.com/api/guilds/1062514276406931476/widget.png?style=banner2"> 
+</a>
+
+<h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
