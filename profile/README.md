@@ -3,7 +3,7 @@
 
 ## What is Ember Host?
 
-We are a up-and-coming hosting company that aims to provide you the absolute best possible experience with hosting: the lowest prices, enterprise hardware, necessary functions, and knowledgable support. Ryzen CPUs, DDR4 ECC RAM, NvME SSDs, DDoS Protection - you name it, we'll have it.
+We are a up-and-coming hosting company that aims to provide you the absolute best possible experience with hosting: the lowest prices, enterprise hardware, necessary functions, and knowledgable support. AMD Ryzen CPUs, DDR4 ECC RAM, NvME SSDs, DDoS Protection - you name it, we'll have it.
 
 
 ## Quickstart:
