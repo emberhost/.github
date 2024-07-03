@@ -1,11 +1,5 @@
 <h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
 
-
-## What is Ember Host?
-
-We are a up-and-coming hosting company that aims to provide you the absolute best possible experience with hosting: low prices, enterprise hardware, necessary functions, and knowledgable support. AMD Ryzen CPUs, NVMe SSDs, dedicated resources, DDoS protection - you name it, we'll have it.
-
-
 ## Quickstart:
 
 - Learn more about Ember Host [here](https://ember.host)!
